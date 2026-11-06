@@ -9,7 +9,7 @@
 | Capability | DaVinci Deluxe Cloud Edition (v1.0.44) | MPPS V18/V21/V22 |
 | :--- | :--- | :--- |
 | **Primary Role** | Automated ECU/TCU Calibration, Emissions & Stage 1/2 Engine | entry-to-mid-level OBD/Tricore multiboot ECU read/write cable |
-| **Cars & Vans Coverage** | **4,962+ ECUs / 82 Brands** | Hardware / driver dependent |
+| **Cars & Vans Coverage** | **4,964+ ECUs / 82 Brands** | Hardware / driver dependent |
 | **24V Trucks & Agriculture** | **Dedicated Engine (452+ ECUs / 82 Brands)** | Separate modules or unsupported |
 | **Marine Boats & Jet Skis** | **Dedicated Marine Engine (30+ Propulsion Brands)** | Limited / unsupported |
 | **Operating Systems** | **Windows, macOS, Linux, Android, iPad, iPhone & Web** | Typically Windows-only or hardware dongle |
